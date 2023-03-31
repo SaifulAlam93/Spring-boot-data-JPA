@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b992fda4-0a4c-4ace-81cd-84071a88ad1b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/home/project/conf/WebSocketConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/home/project/conf/WebSocketSchedulerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/home/project/controller/GreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/home/project/controller/PostController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/home/project/controller/WebSocketController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/home/project/dto/PostDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/home/project/entity/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/home/project/entity/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/home/project/entity/PostEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/home/project/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/home/project/repository/PostRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/home/project/service/PostService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jpb/persistence-units.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/controller/AssignedTaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/controller/AssignedTaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/controller/PlayersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/controller/PlayersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/controller/ScheduleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/controller/ScheduleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/controller/TasksController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/controller/TasksController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/dto/ScheduleWiseTaskDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/dto/ScheduleWiseTaskDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/entity/AssignedTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/entity/AssignedTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/entity/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/entity/Schedule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/entity/Schedule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/entity/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/entity/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/repository/AssignedTaskRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/repository/AssignedTaskRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/repository/PlayersRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/repository/PlayersRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/repository/ScheduleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/repository/ScheduleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/repository/TasksRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/repository/TasksRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/service/AssignedTaskService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/service/AssignedTaskService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/service/PlayersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/service/PlayersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/service/ScheduleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/service/ScheduleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/home/project/service/TasksService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/home/project/service/TasksService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/home/project/RestApiTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/home/project/RestApiTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/controller/AssignedTaskController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/controller/PlayersController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/controller/ScheduleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/controller/TasksController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/dto/AssignedTaskDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/home/project/dto/AssignedTaskDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/dto/PlayerDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/home/project/dto/PlayerDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/dto/ScheduleDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/home/project/dto/ScheduleDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/dto/ScheduleWiseTaskDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/home/project/dto/ScheduleWiseTaskDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/dto/TaskDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/home/project/dto/TaskDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/entity/AssignedTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/entity/Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/entity/Schedule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/entity/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/repository/AssignedTaskRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/repository/PlayersRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/repository/ScheduleRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/repository/TasksRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/service/AssignedTaskService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/service/PlayersService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/service/ScheduleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/service/TasksService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/urlConstants/BaseModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/home/project/urlConstants/BaseModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/urlConstants/ErrorResponseDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/home/project/urlConstants/ErrorResponseDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/urlConstants/Response.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/home/project/urlConstants/Response.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/home/project/urlConstants/ResponseUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/home/project/urlConstants/ResponseUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/home/project/RestApiTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KPxvnasZxSJYnLxQ2j24MaEqTp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/Downloads/angularCrud/Spring-boot-data-JPA&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ProjectApplication">
+    <configuration name="ProjectApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.home.project.ProjectApplication" />
+      <module name="project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.home.project.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in project" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ProjectApplication" />
+        <item itemvalue="JUnit.All in project" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b992fda4-0a4c-4ace-81cd-84071a88ad1b" name="Changes" comment="" />
+      <created>1673890258735</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673890258735</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
